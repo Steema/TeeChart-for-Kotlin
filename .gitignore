@@ -1,0 +1,30 @@
+# Delphi
+Delphi/Linux64
+Delphi/Win64
+*.local
+*.identcache
+*.stat
+*.tvsconfig
+__history/
+*.dcu
+*.rsm
+
+# Gradle / JVM
+.gradle/
+build/
+out/
+bin/
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.ipr
+*.iws
+
+# OS
+Thumbs.db
+.DS_Store
