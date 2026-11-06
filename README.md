@@ -17,6 +17,10 @@ The 64-bit DLL (`libs/win64/teechart.dll`) and Linux 64-bit shared library (`lib
 On macOS you must supply the shared library separately and point
 `TEECHART_LIB` to its location.
 
+### Running in [Jetbrain](https://www.jetbrains.com/)'s [IntelliJ IDEA](https://www.jetbrains.com/idea/) ide:
+
+<img width="1043" height="747" alt="image" src="https://github.com/user-attachments/assets/b16a1593-bb1e-4311-a89c-895cdc3282a3" />
+
 ---
 
 ### Quick start
